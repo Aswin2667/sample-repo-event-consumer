@@ -1,0 +1,1 @@
+// Defines storage interface
